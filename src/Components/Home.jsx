@@ -19,8 +19,8 @@ const Home = () => {
 
             <section className="about-text">
               <p>
-                I'm Creative Director and UI/UX Designer and Graphics Designer
-                from Surat, Gujrat, India, working in web development and print
+                I'm Creative Director and UI/UX Designer and Web Designer from
+                Surat, Gujrat, India, working in web development and print
                 media. I enjoy turning complex problems into simple, beautiful
                 and intuitive designs.
               </p>
@@ -75,12 +75,10 @@ const Home = () => {
                   </div>
 
                   <div className="service-content-box">
-                    <h4 className="h4 service-item-title">
-                      Graphics Designing
-                    </h4>
+                    <h4 className="h4 service-item-title">UI/Ux Designing</h4>
 
                     <p className="service-item-text">
-                      Professional Graphics Designing for all Platforms.
+                      Professional UI/Ux Designing for all Platforms.
                     </p>
                   </div>
                 </li>

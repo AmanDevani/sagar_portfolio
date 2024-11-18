@@ -17,7 +17,7 @@ const Sidebar = () => {
               Sagar Rakholiya
             </h1>
 
-            <p className="title">Graphics Designer</p>
+            <p className="title">UI/UX & Web Designer</p>
           </div>
         </div>
 

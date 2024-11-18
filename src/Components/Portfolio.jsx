@@ -95,7 +95,7 @@ const Portfolio = () => {
 
                     <h3 className="project-title">Men's Wear Design</h3>
 
-                    <p className="project-category">Design</p>
+                    <p className="project-category">Web Design</p>
                   </Link>
                 </li>
 
@@ -111,14 +111,14 @@ const Portfolio = () => {
 
                     <h3 className="project-title">Ladie's Wear Design</h3>
 
-                    <p className="project-category">Design</p>
+                    <p className="project-category">Web Design</p>
                   </Link>
                 </li>
 
                 <li
                   className="project-item active"
                   data-filter-item
-                  data-category="web development"
+                  data-category="web Development"
                 >
                   <Link to="#" target="_blank">
                     <figure className="project-img">

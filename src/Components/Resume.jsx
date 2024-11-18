@@ -57,7 +57,7 @@ const Resume = () => {
               <ol className="timeline-list">
                 <li className="timeline-item">
                   <h4 className="h4 timeline-item-title">
-                    UI/Ux & Graphics Designer
+                    UI/Ux & Web Designer
                   </h4>
 
                   <span>2.4 Year</span>
@@ -67,7 +67,7 @@ const Resume = () => {
 
                 <li className="timeline-item">
                   <h4 className="h4 timeline-item-title">
-                    UI/Ux & Graphics Designer
+                    UI/Ux & Web Designer
                   </h4>
 
                   <span>9 Months</span>
