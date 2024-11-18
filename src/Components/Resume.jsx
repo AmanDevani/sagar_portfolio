@@ -60,7 +60,7 @@ const Resume = () => {
                     UI/Ux & Graphics Designer
                   </h4>
 
-                  <span>1 Year</span>
+                  <span>2.4 Year</span>
 
                   <p className="timeline-text">Cruxtab Technologies</p>
                 </li>
@@ -70,7 +70,7 @@ const Resume = () => {
                     UI/Ux & Graphics Designer
                   </h4>
 
-                  <span>6 Months</span>
+                  <span>9 Months</span>
 
                   <p className="timeline-text">Synkrama Technologies</p>
                 </li>
