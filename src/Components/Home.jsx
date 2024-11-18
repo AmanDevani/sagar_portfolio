@@ -75,10 +75,10 @@ const Home = () => {
                   </div>
 
                   <div className="service-content-box">
-                    <h4 className="h4 service-item-title">UI/Ux Designing</h4>
+                    <h4 className="h4 service-item-title">UI/UX Designing</h4>
 
                     <p className="service-item-text">
-                      Professional UI/Ux Designing for all Platforms.
+                      Professional UI/UX Designing for all Platforms.
                     </p>
                   </div>
                 </li>
